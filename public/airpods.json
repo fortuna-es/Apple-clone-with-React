@@ -1,0 +1,15 @@
+{
+    "products":[
+        {
+          "product_url": "airpods",
+          "product_img": "https://www.apple.com/v/airpods-2nd-generation/d/images/overview/setup__cfebd9ivg8k2_large_2x.jpg",
+          "product_link": "https://www.apple.com/shop/product/MV7N2AM/A/airpods-with-charging-case",
+          "product_name": "AirPods",
+          "product_brief_description": "Wireless. Effortless. Magical.",
+          "starting_price": "$129",
+          "price_range": "From $199 or $21.50/mo.per month for 6 mo.",
+          "product_description": "With plenty of talk and listen time, voice-activated Siri access, and an available wireless charging case, AirPods deliver an incredible wireless headphone experience. Simply take them out and they’re ready to use with all your devices. Put them in your ears and they connect immediately, immersing you in rich, high-quality sound. Just like magic."
+        }
+      ]
+  }
+  

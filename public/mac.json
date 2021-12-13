@@ -1,0 +1,15 @@
+{
+  "products":[
+      
+      {
+        "product_url": "macbookpro",
+        "product_img": "https://www.apple.com/v/macbook-pro-14-and-16/b/images/overview/hero/intro__ewz1ro7xs14y_medium_2x.jpg",
+        "product_link": "https://www.apple.com/shop/buy-mac/macbook-pro/14-inch",
+        "product_name": "MacBook Pro",
+        "product_brief_description": "Supercharged for pros.",
+        "starting_price": "$1999",
+        "price_range": "$166.58/mo.per month for 12 mo.monthsFootnote*",
+        "product_description": "The most powerful MacBook Pro ever is here. With the blazing-fast M1 Pro or M1 Max chip — the first Apple silicon designed for pros — you get groundbreaking performance and amazing battery life. Add to that a stunning Liquid Retina XDR display, the best camera and audio ever in a Mac notebook, and all the ports you need. The first notebook of its kind, this MacBook Pro is a beast."
+      }
+    ]
+}

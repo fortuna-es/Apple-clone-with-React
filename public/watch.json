@@ -1,0 +1,15 @@
+{
+    "products":[
+        {
+          "product_url": "watch se",
+          "product_img": "https://www.apple.com/v/watch/aq/images/overview/se/tile-watch-se__knji2d25x8qe_large_2x.jpg",
+          "product_link": "https://www.apple.com/shop/buy-watch/apple-watch-se",
+          "product_name": "Watch SE",
+          "product_brief_description": "Heavy on features. Light on price.",
+          "starting_price": "$279",
+          "price_range": "From $279 or $11.62/mo. per monthfor 24 mo.",
+          "product_description": "iPowerful features to help keep you connected, active, healthy, and safe. Advanced sensors to track all the ways you move and to measure your favorite workouts. And available cellular so you can go without your phone.1 Apple Watch SE is a lot of watch for a lot less than you expected."
+        }
+      ]
+  }
+  

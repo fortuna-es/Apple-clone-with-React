@@ -1,0 +1,15 @@
+{
+    "products":[
+        {
+          "product_url": "apple TV 4K",
+          "product_img": "https://www.apple.com/v/tv-home/b/images/overview/hero_tv__d8nngabrofue_large_2x.png",
+          "product_link": "https://www.apple.com/shop/buy-tv/apple-tv-4k",
+          "product_name": "Apple TV 4K",
+          "product_brief_description": "A higher definition of TV.",
+          "starting_price": "$179",
+          "price_range": "From $179or $29.83/mo.per month for 6 mo.",
+          "product_description": "Apple TV 4K brings the best of TV together with your favorite Apple devices and services — in a powerful experience that will transform your living room."
+        }
+      ]
+  }
+  

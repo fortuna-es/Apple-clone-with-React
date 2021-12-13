@@ -1,0 +1,25 @@
+{
+    "products":[
+        {
+          "product_url": "ipadmini",
+          "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-select-202109?wid=1080&hei=1060&fmt=jpeg&qlt=80&.v=1631751017000",
+          "product_link": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+          "product_name": "iPad mini",
+          "product_brief_description": "Mega Powered. Mini Sized.",
+          "starting_price": "$499.00",
+          "price_range": "From $499 or $41.58/mo.per month for 12 mo.*",
+          "product_description": "iPad mini is meticulously designed to be absolutely beautiful. An all-new enclosure features a new, larger edge-to-edge screen, along with narrow borders and elegant rounded corners."
+        },
+        {
+          "product_url": "ipadair",
+          "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-select-202009?wid=886&hei=1070&fmt=jpeg&qlt=80&.v=1599066777000",
+          "product_link": "https://www.apple.com/shop/buy-ipad/ipad-air",
+          "product_name": "iPad Air",
+          "product_brief_description": "Powerful. Colorful. Wonderful.",
+          "starting_price": "$599",
+          "price_range": "From $599 or $49.91/mo.per month for 12 mo.",
+          "product_description": "iPad Air is the perfect way to stay connected with Wi‑Fi and LTE. Host a FaceTime call, join a video conference, or start a group project with friends or classmates from anywhere. Advanced cameras and microphones keep faces and voices crystal clear. iPad Air features superfast Wi‑Fi 6 — and with LTE,3 you can connect even when you’re away from Wi‑Fi."
+        }
+      ]
+  }
+  
